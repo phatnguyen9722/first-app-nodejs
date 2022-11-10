@@ -1,0 +1,14 @@
+h1 {
+    display: flex;
+    margin: 0;
+    color: red;
+    background-color: #ccc;
+    font-size: 24px;
+    border: 1px solid #000;
+}
+
+img {
+    padding: 0 10px;
+    width: 2%;
+    height: auto;
+}
